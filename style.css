@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.sub-group {
+  font-size: 100%;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background: #77ec13;
+  color: #fff;
+  display: grid;
+  place-items: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#description {
+  font-size: 200%;
+  color: #eaff06;
+}
+
+.feildset {
+  color: #eaff06;
+}
+
+#Survey_Form {
+  color: #fff;
+}
